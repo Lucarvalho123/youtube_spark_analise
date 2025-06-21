@@ -17,14 +17,14 @@ Projeto desenvolvido para aplicar leitura, escrita e manipulação de dados em a
 
 ## Etapas Realizadas
 
-- ✅ Leitura dos arquivos `.csv` com e sem inferência de schema
-- ✅ Visualização dos dados (`show`) e estrutura (`printSchema`)
-- ✅ Conversão e salvamento no formato `.parquet`
-- ✅ Criação de tabela `tb_videos` no catálogo do Spark
-- ✅ Consulta da tabela usando SQL no Spark
-- ✅ Upload e manipulação de múltiplos arquivos em ambiente distribuído
+- Leitura dos arquivos `.csv` com e sem inferência de schema
+- Visualização dos dados (`show`) e estrutura (`printSchema`)
+- Conversão e salvamento no formato `.parquet`
+- Criação de tabela `tb_videos` no catálogo do Spark
+- Consulta da tabela usando SQL no Spark
+- Upload e manipulação de múltiplos arquivos em ambiente distribuído
 
-## 📊 Objetivo
+## Objetivo
 
 O objetivo é simular tarefas comuns de um analista de dados em ambiente de Big Data, combinando dados de diferentes fontes e formatos. O projeto também serve como base para etapas futuras de tratamento e análise avançada.
 
